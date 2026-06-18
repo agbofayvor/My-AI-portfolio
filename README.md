@@ -1,4 +1,6 @@
-<img width="509" height="301" alt="avatar" src="https://github.com/user-attachments/assets/9b3481d0-72e7-4b4b-a771-4e00b88c5d44" /># My-AI-portfolio
+<img width="509" height="301" alt="avatar" src="https://github.com/user-attachments/assets/9b3481d0-72e7-4b4b-a771-4e00b88c5d44" />
+
+# My-AI-portfolio
 My Journey to become an AI professional who is relevant across all spheres of my career
 # Prompt Template
 Based on:
